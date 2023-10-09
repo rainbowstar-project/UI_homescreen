@@ -34,7 +34,7 @@ Raick Miranda, Rainbow Star project, October 9, 2023.
 
 Aviso Legal de Direitos Autorais
 
-Em função da necessidade proteção intelectual do conteúdo artístico
+Em função da necessidade de proteção intelectual do conteúdo artístico
 desenvolvido neste projeto, fica esclarecido que os direitos autorais
 referentes às artes digitais da interface estão reservadas somente ao criador
 das ilustrações, Raick Miranda. Como estabelecido internacionalmente, todo
