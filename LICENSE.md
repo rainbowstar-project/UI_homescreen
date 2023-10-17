@@ -29,8 +29,7 @@ Any modification will be effective immediately after the publication of an
 updated version of this notice.
 
 *Additional images were acquired through personal use license. It is clarified
-that this project is for student purposes and has no commercial relationship
-involved.
+that this project is for student purposes and has no commercial use involved.
 
 Raick Miranda,
 Rainbow Star project,
